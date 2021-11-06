@@ -1,0 +1,3 @@
+execute_script
+src\product\Script.txt
+exit
